@@ -1,5 +1,5 @@
 <!--- Calendar iframe goes below --->
-
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_392nm1i0i317gmmvqnvc6tih3s%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Common Commands
 
@@ -141,17 +141,21 @@ this end-tag is closing the comment on the table --->
 
 <!--- Resources Section --->
 
-## Resources 
-[**1 on 1s with instructor-name-here - Instructor**](you_1on1_link_here)
+## Resources
 
-[**1 on 1s with edcoach-name-here - Education Coach**](edcoach_schedule_once_link_goes_here)
+[**1 on 1s with Brandon - Instructor**](https://go.oncehub.com/11MeetingsPT)
+
+[**1 on 1s with Dara - Education Coach**](https://darapaoletti.youcanbook.me)
+
+[**Student Resources Spreadsheet**](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=666583018)
+
+[**Study Notes Link**](https://github.com/cyranothebard/ds_career_studygroupnotes)
+
+[**Flatiron Online Data Science Program Guide**](https://drive.google.com/file/d/19A8VN5AIjTfF0iayuW__elrVGb5_d7Bh/view?usp=sharing)
 
 [**About Me Survey** Please take this on Day 1](https://forms.gle/SJWWi5WJQsGRBitSA)
 
 [**Student Services Email** - studentservices@flatironschool.com](mailto:studentservices@flatironschool.com)
-
-[**Video Recording Spreadsheet Link**](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0)
-
 
 <!--- Video Resources --->
 
