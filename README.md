@@ -181,8 +181,8 @@ this end-tag is closing the comment on the table --->
 ## Study Group Recordings
 |Lesson| url | Date of Study Group | Github Repo |
 |------|-----| ---- | --- |
-| Orientation - Part I | https://youtu.be/W7nwWxQwJTM | August 14, 2019 | - |
-| Orientation - Part II | https://youtu.be/xeIxcO0D3Uk | August 16, 2019| - |
+| Orientation - Part I | https://youtu.be/W7nwWxQwJTM | August 13, 2019 | - |
+| Orientation - Part II | https://youtu.be/xeIxcO0D3Uk | August 15, 2019| - |
 
 ## Welcome Week Recordings
 | Event | recording url |
