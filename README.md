@@ -181,14 +181,13 @@ this end-tag is closing the comment on the table --->
 ## Study Group Recordings
 |Lesson| url | Date of Study Group | Github Repo |
 |------|-----| ---- | --- |
-| | | | |
-
+| Orientation - Part I | https://youtu.be/W7nwWxQwJTM | August 14, 2019 | - |
+| Orientation - Part II | https://youtu.be/xeIxcO0D3Uk | August 16, 2019| - |
 
 ## Welcome Week Recordings
 | Event | recording url |
 |-------|---------------|
-|Day 1 - Orientation | |
-|Day 2 - Meet Your Classmates| |
+|Orientation & Meet Your Classmates | https://youtu.be/W7nwWxQwJTM |
 |Day 3 - Community Talk | |
 |Day 4 - Hi From Career Services| |
 |Day 5 - Stress Less | |
