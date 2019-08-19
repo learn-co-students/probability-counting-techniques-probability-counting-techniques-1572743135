@@ -183,6 +183,7 @@ this end-tag is closing the comment on the table --->
 |------|-----| ---- | --- |
 | Orientation - Part I | https://youtu.be/W7nwWxQwJTM | August 13, 2019 | - |
 | Orientation - Part II | https://youtu.be/xeIxcO0D3Uk | August 15, 2019| - |
+| Importing & Statistical Analysis of Data | https://youtu.be/uiFJKuc93Bc | August 19, 2019 | https://github.com/cyranothebard/ds_career_studygroupnotes/blob/master/M01S03.ipynb |
 
 ## Welcome Week Recordings
 | Event | recording url |
