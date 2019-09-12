@@ -184,6 +184,11 @@ this end-tag is closing the comment on the table --->
 | Orientation - Part I | https://youtu.be/W7nwWxQwJTM | August 13, 2019 | - |
 | Orientation - Part II | https://youtu.be/xeIxcO0D3Uk | August 15, 2019| - |
 | Importing & Statistical Analysis of Data | https://youtu.be/uiFJKuc93Bc | August 19, 2019 | https://github.com/cyranothebard/ds_career_studygroupnotes/blob/master/M01S03.ipynb |
+| Python Libararies - Numpy & Pandas| https://youtu.be/FchIoN4vHS0 | August 21, 2019| - |
+| Data Cleaning in Pandas | https://youtu.be/eKKU61EYPsY | August 26, 2019| - |
+| Data Visualization | https://youtu.be/QXFXV2wdZ3w | August 28, 2019| - |
+| Introduction to Linear Regression | https://youtu.be/fz7Mt1GV1ug | September 9, 2019| - |
+| Multiple Linear Regression | https://youtu.be/zaOGXM0MtSw | September 11, 2019| - |
 
 ## Welcome Week Recordings
 | Event | recording url |
