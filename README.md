@@ -189,6 +189,7 @@ this end-tag is closing the comment on the table --->
 | Data Visualization | https://youtu.be/QXFXV2wdZ3w | August 28, 2019| - |
 | Introduction to Linear Regression | https://youtu.be/fz7Mt1GV1ug | September 9, 2019| - |
 | Multiple Linear Regression | https://youtu.be/zaOGXM0MtSw | September 11, 2019| - |
+| Supplementary - Non-Technical Presentations & Readmes | https://youtu.be/xNOr6YXr6Es | September 23, 2019 | - |
 
 ## Welcome Week Recordings
 | Event | recording url |
