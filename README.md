@@ -143,7 +143,8 @@ this end-tag is closing the comment on the table --->
 
 ## Resources
 
-[**1 on 1s with Brandon - Instructor**](https://go.oncehub.com/11MeetingsPT)
+[**1 on 1s with Matt - Instructor**](https://go.oncehub.com/1on1withMatt)
+[**1 on 1s with Aubrey - Instructor**](https://go.oncehub.com/1on1withAubrey)
 
 [**1 on 1s with Dara - Education Coach**](https://darapaoletti.youcanbook.me)
 
