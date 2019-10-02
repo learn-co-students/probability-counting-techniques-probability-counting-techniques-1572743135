@@ -191,7 +191,7 @@ this end-tag is closing the comment on the table --->
 | Introduction to Linear Regression | https://youtu.be/fz7Mt1GV1ug | September 9, 2019| - |
 | Multiple Linear Regression | https://youtu.be/zaOGXM0MtSw | September 11, 2019| - |
 | Supplementary - Non-Technical Presentations & Readmes | https://youtu.be/xNOr6YXr6Es | September 23, 2019 | - |
-| SQL | https://www.youtube.com/watch?v=9om1Z72extQ | September 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/SQL |
+| SQL | https://www.youtube.com/watch?v=rK1ZdP_FGaA | September 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/SQL |
 
 ## Welcome Week Recordings
 | Event | recording url |
