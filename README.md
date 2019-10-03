@@ -192,6 +192,7 @@ this end-tag is closing the comment on the table --->
 | Multiple Linear Regression | https://youtu.be/zaOGXM0MtSw | September 11, 2019| - |
 | Supplementary - Non-Technical Presentations & Readmes | https://youtu.be/xNOr6YXr6Es | September 23, 2019 | - |
 | SQL | https://www.youtube.com/watch?v=rK1ZdP_FGaA | September 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/SQL |
+| OOP | https://www.youtube.com/watch?v=bHg7E5MAh3A | October 2, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/OOP |
 
 ## Welcome Week Recordings
 | Event | recording url |
