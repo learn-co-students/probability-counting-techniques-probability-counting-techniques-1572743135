@@ -193,6 +193,7 @@ this end-tag is closing the comment on the table --->
 | Supplementary - Non-Technical Presentations & Readmes | https://youtu.be/xNOr6YXr6Es | September 23, 2019 | - |
 | SQL | https://www.youtube.com/watch?v=rK1ZdP_FGaA | September 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/SQL |
 | OOP | https://www.youtube.com/watch?v=bHg7E5MAh3A | October 2, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/OOP |
+| JSON, XML, Recursion | https://www.youtube.com/watch?v=7H81tJgCSQ4 | October 7, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/JSON-XML-Recur
 
 ## Welcome Week Recordings
 | Event | recording url |
