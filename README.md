@@ -195,6 +195,7 @@ this end-tag is closing the comment on the table --->
 | OOP | https://www.youtube.com/watch?v=bHg7E5MAh3A | October 2, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/OOP |
 | JSON, XML, Recursion | https://www.youtube.com/watch?v=7H81tJgCSQ4 | October 7, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/JSON-XML-Recur |
 | APIs | https://youtu.be/OwpJYd-zJGI | October 10, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/APIs |
+| Web Scraping | https://youtu.be/0nhRjmeY6AA | October 15, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Web%20Scraping |
 
 ## Welcome Week Recordings
 | Event | recording url |
