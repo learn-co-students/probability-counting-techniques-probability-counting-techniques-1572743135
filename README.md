@@ -197,6 +197,7 @@ this end-tag is closing the comment on the table --->
 | APIs | https://youtu.be/OwpJYd-zJGI | October 10, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/APIs |
 | Web Scraping | https://youtu.be/0nhRjmeY6AA | October 14, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Web%20Scraping |
 | More SQL and Web Scraping | https://youtu.be/ulPvDfpQc5M | October 16, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Extra%20SQL%2C%20Web%20Scraping |
+| NoSQL and MongoDB | https://youtu.be/vawZ3reAKaM | October 22, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/MongoDB |
 
 ## Welcome Week Recordings
 | Event | recording url |
