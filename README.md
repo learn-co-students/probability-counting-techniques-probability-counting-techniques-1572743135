@@ -198,7 +198,8 @@ this end-tag is closing the comment on the table --->
 | Web Scraping | https://youtu.be/V9a879vpyZY | October 14, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Web%20Scraping |
 | More SQL and Web Scraping | https://youtu.be/ulPvDfpQc5M | October 16, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Extra%20SQL%2C%20Web%20Scraping |
 | NoSQL and MongoDB | https://youtu.be/vawZ3reAKaM | October 21, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/MongoDB |
-| End of Mod 2 Lab | https://youtu.be/DRNeLMGrJ_s |October 23, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202
+| End of Mod 2 Lab | https://youtu.be/DRNeLMGrJ_s | October 23, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202 |
+| End of Mod 2 Lab - Part 2 | https://youtu.be/RMSAUmHlNxM | October 24, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202 |
 
 ## Welcome Week Recordings
 | Event | recording url |
