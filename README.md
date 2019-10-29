@@ -191,6 +191,7 @@ this end-tag is closing the comment on the table --->
 | Introduction to Linear Regression | https://youtu.be/fz7Mt1GV1ug | September 9, 2019| - |
 | Multiple Linear Regression | https://youtu.be/zaOGXM0MtSw | September 11, 2019| - |
 | Supplementary - Non-Technical Presentations & Readmes | https://youtu.be/xNOr6YXr6Es | September 23, 2019 | - |
+| **Mod 2** | 
 | SQL | https://www.youtube.com/watch?v=rK1ZdP_FGaA | September 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/SQL |
 | OOP | https://www.youtube.com/watch?v=AsC_O3slBBQ | October 2, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/OOP |
 | JSON, XML, Recursion | https://www.youtube.com/watch?v=7H81tJgCSQ4 | October 7, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/JSON-XML-Recur |
@@ -200,6 +201,8 @@ this end-tag is closing the comment on the table --->
 | NoSQL and MongoDB | https://youtu.be/vawZ3reAKaM | October 21, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/MongoDB |
 | End of Mod 2 Lab | https://youtu.be/DRNeLMGrJ_s | October 23, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202 |
 | End of Mod 2 Lab - Part 2 | https://youtu.be/RMSAUmHlNxM | October 24, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202 |
+| **Mod 3** |
+| Probability  | https://youtu.be/Hmp-AfYPK9s | October 29, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Probability |
 
 ## Welcome Week Recordings
 | Event | recording url |
