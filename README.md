@@ -203,7 +203,8 @@ this end-tag is closing the comment on the table --->
 | End of Mod 2 Lab | https://youtu.be/DRNeLMGrJ_s | October 23, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202 |
 | End of Mod 2 Lab - Part 2 | https://youtu.be/RMSAUmHlNxM | October 24, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202 |
 | **Mod 3** |
-| Probability  | https://youtu.be/Hmp-AfYPK9s | October 29, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Probability |
+| Probability  | https://youtu.be/Hmp-AfYPK9s | October 28, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Probability |
+| Permutations and Combinations | https://www.youtube.com/watch?v=2zPtORZjf4E | October 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Permutations%20and%20Combinations |
 
 ## Welcome Week Recordings
 | Event | recording url |
